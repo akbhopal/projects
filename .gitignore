@@ -1,0 +1,2 @@
+#includes file and imported libraries that should be ignored
+#assumed that these libraries are already on a system or can be installed with a simple command (i.e. pip)
